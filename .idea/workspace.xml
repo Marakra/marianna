@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="51321821-3a1d-4f8f-a0f6-78dc565c03ec" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/phpseclib/phpseclib" />
+      <path value="$PROJECT_DIR$/vendor/php-amqplib/php-amqplib" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1jydGDBE2JJCb7UBYm9gpz51JQc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql&#10;postgresql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../localhost/PHP/2/index.php" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sergi\PhpstormProjects\marianna\src\Service\DTO" />
+      <recent name="C:\Users\sergi\PhpstormProjects\marianna\bin\local" />
+      <recent name="C:\Users\sergi\PhpstormProjects\marianna\public\packages" />
+      <recent name="C:\Users\sergi\PhpstormProjects\marianna\public" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sergi\PhpstormProjects\marianna" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51321821-3a1d-4f8f-a0f6-78dc565c03ec" name="Default Changelist" comment="" />
+      <created>1604780167335</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604780167335</updated>
+      <workItem from="1604780168361" duration="4970000" />
+      <workItem from="1604846860317" duration="7225000" />
+      <workItem from="1604856199422" duration="3280000" />
+      <workItem from="1604947166915" duration="228000" />
+      <workItem from="1604947430782" duration="35000" />
+      <workItem from="1604947472059" duration="26000" />
+      <workItem from="1604947506884" duration="166000" />
+      <workItem from="1604947683523" duration="69000" />
+      <workItem from="1604947762002" duration="55000" />
+      <workItem from="1604949474192" duration="25000" />
+      <workItem from="1605090512928" duration="12132000" />
+      <workItem from="1605111738932" duration="1988000" />
+      <workItem from="1605116709204" duration="171000" />
+      <workItem from="1605167768335" duration="2750000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="400" y="376" key="#SQL_Resolution_Scopes" timestamp="1604857823610">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="400" y="376" key="#SQL_Resolution_Scopes/0.0.1920.1040@0.0.1920.1040" timestamp="1604857823610" />
+    <state x="904" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604856156743">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="904" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604856156743" />
+    <state x="714" y="315" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605091177956">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="714" y="315" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1605091177956" />
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1605099124336">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1605099124336" />
+    <state x="690" y="275" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1605100447620">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="275" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605100447620" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1605113729899">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/1920.-530.1500.980/4920.-450.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1605113729899" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1604856242862">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1920.1040@0.0.1920.1040" timestamp="1604856242862" />
+    <state x="706" y="243" key="NewPhpClassDialog" timestamp="1605098965255">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="706" y="243" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605098965255" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1605093806620">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605093806620" />
+    <state x="850" y="133" key="SettingsEditor" timestamp="1605170605050">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="850" y="133" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605103038062" />
+    <state x="850" y="133" key="SettingsEditor/1920.-530.1500.980/4920.-450.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1605170605050" />
+    <state width="367" height="441" key="SqlResolveConfigurable" timestamp="1604857822520">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="367" height="441" key="SqlResolveConfigurable/0.0.1920.1040@0.0.1920.1040" timestamp="1604857822520" />
+    <state x="681" y="261" width="540" height="524" key="StructurePopup" timestamp="1604856264865">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="681" y="261" width="540" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1604856264865" />
+    <state x="572" y="315" width="599" height="282" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1604856238873">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="572" y="315" width="599" height="282" key="com.intellij.database.actions.DdlActions$CreateObject$1/0.0.1920.1040@0.0.1920.1040" timestamp="1604856238873" />
+    <state x="493" y="207" width="912" height="631" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1604857800681">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="493" y="207" width="912" height="631" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604857800681" />
+    <state x="1530" y="-499" width="2848" height="1010" maximized="true" key="dock-window-1" timestamp="1605112868199">
+      <screen x="1920" y="-530" width="1500" height="980" />
+    </state>
+    <state x="1530" y="-499" width="2848" height="1010" maximized="true" key="dock-window-1/1920.-530.1500.980/4920.-450.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1605112868199" />
+    <state x="667" y="253" width="585" height="534" key="find.popup" timestamp="1605103044697">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="253" width="585" height="534" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605103044697" />
+    <state x="826" y="386" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup" timestamp="1604785127842">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="826" y="386" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604785127842" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1605170130267">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605101732009" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.-530.1500.980/4920.-450.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1605170130267" />
+  </component>
+</project>
